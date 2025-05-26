@@ -59,9 +59,10 @@ RentFuse ensures a self-enforcing lease lifecycle, preventing disputes and delay
 - MetaMask or any Web3-compatible wallet
 - Ethereum testnet (e.g. Goerli) or local test network
 
-### Installation
+### Contract
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rentfuse.git
-   cd rentfuse
+- Address : 0x7586affded091a2422be6e83d85f13705fd42d5c
+
+---
+
+![image](https://github.com/user-attachments/assets/fa156124-1093-43c0-ad81-41f190ef5b5e)
